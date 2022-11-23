@@ -13,19 +13,19 @@ TagManager:
   - UI
   - 
   - 
+  - BackGround
+  - Surface
+  - Environment
+  - Player
+  - Interactive
+  - Enemies
+  - PlayerProjectiles
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - GUI
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1457434857
+    locked: 0
+  - name: Surface
+    uniqueID: 4288164641
+    locked: 0
+  - name: Player
+    uniqueID: 2684069281
+    locked: 0
+  - name: GUI
+    uniqueID: 1078884187
     locked: 0
